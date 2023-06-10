@@ -16,7 +16,7 @@ const Navbar = () => {
       <ul
         className={` ${
           extendNavbar
-            ? "flex flex-col justify-center items-center  gap-4 absolute top-20 left-0 w-full h-56 z-50 bg-white"
+            ? "flex flex-col justify-center items-center  gap-4 absolute top-20 left-0 w-full h-56 z-50 bg-white "
             : "   hidden md:flex"
         }`}
       >
@@ -24,7 +24,7 @@ const Navbar = () => {
           return (
             <li
               key={item.id}
-              className="px-4 cursor-pointer text-slate-600 capitalize font-medium font-poppins text-lg hover:text-slate-900 hover:scale-105 duration-300"
+              className="px-4 cursor-pointer text-slate-600 capitalize font-medium font-poppins text-xl hover:text-slate-900 hover:scale-105 duration-300"
             >
               <Link to={item.link} smooth duration={500}>
                 {item.link}
