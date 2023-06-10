@@ -14,7 +14,7 @@ const Home = () => {
             I'm a Web Developer
           </h2>
           <p className="text-lg  text-gray-400 font-base font-poppins lg:w-[550px]">
-            I am a passionate developer, love to work on web applications,
+            I am a passionate Web Developer, love to work on web applications,
             ReactJS and TailwindCSS. Currently doing internship at iNeuron,
             Bangalore and also learning MERN Stack Web Development.
           </p>
