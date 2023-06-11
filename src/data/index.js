@@ -71,7 +71,7 @@ export const homeLinks = [
         Resume <ContactsIcon className="ml-8" />
       </span>
     ),
-    href: "/public/ZareelCV.pdf",
+    href: "https://drive.google.com/drive/u/0/my-drive",
     style: "rounded-br-md",
     download: true,
   },
