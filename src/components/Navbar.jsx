@@ -16,7 +16,7 @@ const Navbar = () => {
       <ul
         className={` ${
           extendNavbar
-            ? "flex flex-col justify-center items-center  gap-4 absolute top-20 left-0 w-full h-56 z-50 bg-white "
+            ? "flex flex-col justify-center items-center gap-4 absolute top-20 left-0 w-full h-56 z-50 bg-white "
             : "   hidden md:flex"
         }`}
       >

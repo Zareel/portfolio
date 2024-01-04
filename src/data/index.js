@@ -55,41 +55,9 @@ export const homeLinks = [
     ),
     href: "https://github.com/Zareel",
   },
-  {
-    id: 3,
-    child: (
-      <span>
-        Mail <EmailIcon className="ml-16" />
-      </span>
-    ),
-    href: "mailto:zareelbwd@gmail.com",
-  },
-  {
-    id: 4,
-    child: (
-      <span>
-        Resume <ContactsIcon className="ml-8" />
-      </span>
-    ),
-    href: "https://drive.google.com/drive/u/0/my-drive",
-    style: "rounded-br-md",
-    download: true,
-  },
 ];
 
 export const techs = [
-  {
-    id: 1,
-    src: html,
-    title: "HTML",
-    style: "shadow-orange-500",
-  },
-  {
-    id: 2,
-    src: css,
-    title: "CSS",
-    style: "shadow-blue-500",
-  },
   {
     id: 3,
     src: javascript,
@@ -114,13 +82,25 @@ export const techs = [
     title: "GitHub",
     style: "shadow-gray-500",
   },
+  {
+    id: 1,
+    src: html,
+    title: "HTML",
+    style: "shadow-orange-500",
+  },
+  {
+    id: 2,
+    src: css,
+    title: "CSS",
+    style: "shadow-blue-500",
+  },
 ];
 
 export const learning = [
   {
-    id: 1,
-    src: mongodb,
-    title: "MongoDB",
+    id: 3,
+    src: nodejs,
+    title: "NodeJS",
   },
   {
     id: 2,
@@ -128,8 +108,8 @@ export const learning = [
     title: "ExpressJS",
   },
   {
-    id: 3,
-    src: nodejs,
-    title: "NodeJS",
+    id: 1,
+    src: mongodb,
+    title: "MongoDB",
   },
 ];

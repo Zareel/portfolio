@@ -3,7 +3,7 @@ import { homeLinks } from "../data/index";
 
 const SocialLinks = () => {
   return (
-    <div className="hidden lg:flex flex-col fixed top-[35%] left-0">
+    <div className="hidden lg:flex flex-col fixed top-[35%] left-0 gap-4">
       <ul>
         {homeLinks.map((item) => {
           return (
