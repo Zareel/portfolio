@@ -12,27 +12,24 @@ const About = () => {
         <p className="text-[18px] lg:mt-10 font-poppins text-gray-600">
           Name:
           <span className="font-semibold text-gray-500">Zareel Kalam</span>{" "}
-          <br /> I'm from Ernakulam, Kerala. I did my graduation in Family and
-          Community Science from St.Teresa's College, Ernakulam. Started working
-          at Middle East Communication network, Dubai in December 2009 as a
-          monitoring assistant and resigned the job as a Senior Executive
-          accountant in August 2018. While I was working at MCN, I completed my
-          MBA in Human Resource Management.
+          <br /> I'm from Ernakulam, Kerala. I worked at Middle East
+          Communication network, Dubai as a Senior Executive accountant from
+          2009 to 2018.
         </p>
         <br />
         <p className="text-[18px] lg:mt-4 font-poppins text-gray-600">
           I started learning coding from August 2022, Enrolled for Full Stack
-          JavaScript Web Developer Bootcamp (August 2022 - April 2023) at
-          iNeuron, Bangalore. Currently learning MERN Stack Web Develpoment
-          while doing intership at iNeuron.
+          JavaScript Web Developer Bootcamp (August 2022 - 2023) at iNeuron,
+          Bangalore. Currently learning DSA at Unique Occassio Tech, Ernakulam.
+          <br />
           <br />
           My Family members consist of my Father, Mother, my two children and
           myself. <br />
           Hobbies: Watching movies, listening to music, travelling, reading and
-          coding <br /> Favorite Quotes: "If you want to shine like a sun, first
-          burn like a sun" - AP J Abdul Kalam <br /> "Don’t put off doing the
-          hard things. If not now,, then when? Now is the new later, so let’s do
-          it now." - Dr Joe Dispenza
+          coding <br /> <br /> Favorite Quotes: "If you want to shine like a
+          sun, first burn like a sun" - AP J Abdul Kalam <br /> "Don’t put off
+          doing the hard things. If not now,, then when? Now is the new later,
+          so let’s do it now." <br /> - Dr Joe Dispenza
         </p>
       </div>
     </div>
